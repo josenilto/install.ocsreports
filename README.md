@@ -1,6 +1,4 @@
-# ocsreports
-
-Instalação e configuração da aplicação OCS Inventory NG
+# ocsreports - Instalação e configuração da aplicação OCS Inventory NG
 
 IMPORTANTE: A preparação do ambiente precisa ser feita antes da instalação e configuração da aplicação.
 
